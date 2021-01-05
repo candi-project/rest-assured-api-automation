@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/commons-codec-1.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/commons-lang3-3.11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/groovy-3.0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/groovy-json-3.0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/groovy-xml-3.0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/hamcrest-2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/httpclient-4.5.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/httpcore-4.4.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/httpmime-4.5.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/jakarta.activation-api-1.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/jakarta.xml.bind-api-2.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/jaxb-impl-2.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/rest-assured-4.3.3-deps/tagsoup-1.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/json-path-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/json-path-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/rest-assured-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/rest-assured-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/rest-assured-common-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/rest-assured-common-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/xml-path-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/rest-assured-4/docs/xml-path-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/json-path-4.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/json-path-4.3.3-deps/commons-lang3-3.11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/json-path-4.3.3-deps/groovy-3.0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/json-path-4.3.3-deps/groovy-json-3.0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/docs/json-path-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/docs/json-path-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/docs/rest-assured-common-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-path-4/docs/rest-assured-common-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3-deps/commons-lang3-3.11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3-deps/groovy-3.0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3-deps/groovy-xml-3.0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3-deps/jakarta.activation-api-1.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3-deps/jakarta.xml.bind-api-2.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3-deps/jaxb-impl-2.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/xml-path-4.3.3-deps/tagsoup-1.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/docs/rest-assured-common-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/docs/rest-assured-common-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/docs/xml-path-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/xml-path-4/docs/xml-path-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/btf-1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/checker-compat-qual-2.5.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/error_prone_annotations-2.3.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/failureaccess-1.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/guava-28.2-android.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/hamcrest-2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/j2objc-annotations-1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/jackson-annotations-2.11.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/jackson-core-2.11.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/jackson-coreutils-2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/jackson-coreutils-equivalence-1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/jackson-databind-2.11.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/joda-time-2.10.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/jopt-simple-5.0.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/json-schema-core-1.2.14.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/json-schema-validator-2.2.14.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/libphonenumber-8.11.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/mailapi-1.6.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/msg-simple-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/rhino-1.7.7.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/json-schema-validator-4.3.3-deps/uri-template-0.10.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/docs/json-schema-validator-4.3.3-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/json-schema-validator-4/docs/json-schema-validator-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/BasicTestProject/libs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/testng-7.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/candichiu/Downloads/jcommander-1.78.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
